@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530787887136",
+    "project_id": "exp7-fed68",
+    "storage_bucket": "exp7-fed68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530787887136:android:3ffdaa25da12e78c7f3445",
+        "android_client_info": {
+          "package_name": "com.example.exp7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRaCYGSXvMLnkU6ZV0WHWcI7WfB-991Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
